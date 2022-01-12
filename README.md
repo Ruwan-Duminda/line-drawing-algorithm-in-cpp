@@ -1,4 +1,4 @@
-# line-drawing-algorithm-in-c-
+# line-drawing-algorithm-in-cpp
 DDA line Drawing algorithm
 
 
