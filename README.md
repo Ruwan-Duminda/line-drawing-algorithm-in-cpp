@@ -36,7 +36,7 @@ Instruction for adding graphics file in Dev C++
 2) Copy "libbgi.a" to file to "lib" folder of CodeBlocks directory.
    Default location is ("C:\Program Files (x86)\Dev-Cpp\MinGW\lib\")
 
-3) Open CodeBlocks and go to (Tools > Compiler  Options > Compiler)
+3) Open Dev-Cpp and go to (Tools > Compiler  Options > Compiler)
 
 4) Yo can see this command
 	-lglu32 -lglut32 -lopengl32
